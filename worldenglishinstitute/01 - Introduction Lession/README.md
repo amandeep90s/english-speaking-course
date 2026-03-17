@@ -6,7 +6,7 @@ English grammar is the correct use of English words in sentences. It is the art 
 
 English grammar has two main divisions: **(1) The Parts of Speech, and (2) The Sentence.**
 
-## The Parts of Speech
+### The Parts of Speech
 
 All words in the English language may be divided into eight main groups or "parts of speech": **nouns, pronouns, adjectives, verbs, adverbs, prepositions, conjunctions**, and **interjections**.
 
@@ -19,13 +19,13 @@ All words in the English language may be divided into eight main groups or "part
 7. A **conjunction** is a word that connects words, phrases, or clauses to one another. Examples: and, but, yet. Sentence: "The son was hungry and needed money." The conjunction "**_and_**" links the first part of the sentence with the second part.
 8. An **interjection** is a word or group of words used to express sudden and strong feelings. Examples: Ah! Oh! Wow! Oh no! Sentence: "**_Oh_**! How I want to go home!" By learning the eight parts of speech and their meanings, you have taken a big step toward mastering the English language.
 
-## The Sentence
+### The Sentence
 
 Now let us look briefly at the second major division of English grammar, **The Sentence**. A **sentence** is a group of words joined together to express a complete thought. Every sentence is made up of two main parts: (1) **the subject**, and (2) the **predicate**. 1. The subject is the part of the sentence that tells who or what the sentence is about. For example, "God is love." In this sentence, "God" is the subject. He is the person being discussed.
 
 The **predicate** is the part of the sentence that tells what the subject is or does. The predicate always includes a verb. In the sentence above, "is love" is the predicate. That is what is said about God.
 
-## Types of Sentences
+### Types of Sentences
 
 Sentences are divided into four classes according to the way they express a thought: (1) **declarative**, (2) **interrogative**, (3) **imperative**, and (4) **exclamatory**.
 
